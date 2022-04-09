@@ -1,0 +1,231 @@
+body {
+    text-align: center;
+    color: #000F08;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+nav {
+    text-align: left;
+    padding: 1.25rem 4rem;
+    position: sticky;
+    width: 100vw;
+    font-size: 1rem;
+    background-color: #000F08;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin: 0 1.16rem;
+    vertical-align: middle;
+}
+
+nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav img {
+    -webkit-filter: invert();
+            filter: invert();
+}
+
+.icono {
+    width: 2rem;
+}
+
+.hero-section {
+    background-image: url(../img/bg-hero.png);
+    text-align: right;
+    background-size: cover;
+    text-shadow: 0px 3px 6px #000F08;
+    opacity: 1;
+    background-repeat: no-repeat;
+    padding: 6rem 4rem;
+    color: #FFFFFF;
+    letter-spacing: 1.5px;
+}
+.hero-section {
+    background-image: url(../img/bg-hero.png);
+    text-align: right;
+    background-size: cover;
+    text-shadow: 0px 3px 6px #000F08;
+    opacity: 1;
+    background-repeat: no-repeat;
+    padding: 6rem 4rem;
+    color: #FFFFFF;
+    letter-spacing: 1.5px;
+}
+
+#ubicacion img {
+    width: 26vw;
+}
+
+#ubicacion { 
+    padding: 50px;
+}
+
+.centrado {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.sweet-brown {
+    background-color: #A4452C;
+    color: #FFFFFF;
+    padding: 3rem;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.charla-speaker, .charla-texto, .evento {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.charla-texto {
+    width: 50%;
+    vertical-align: middle;
+    margin-left: 2.5%;
+    white-space: normal;
+    text-align: justify;
+}
+
+.charla-speaker {
+    width: 25%;
+    /* width: 25vw;
+    height: 60%; */
+    vertical-align: middle;
+}
+
+.evento img {
+    width: 75%;
+}
+
+.evento {
+    width: 25vw;
+}
+
+h1 {
+    font-weight:800;
+    font-size: 3.75em;
+    margin-bottom: 0.25em;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 2.813em;
+}
+
+h3 {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 2.3m;
+}
+
+h4 {
+    font-size: 2.063em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+.subtitulo, h4, h5 {
+    font-weight: 400;
+}
+
+#ubicacion h2 {
+    margin: 1em;
+}
+
+.sweet-brown h3, .sweet-brown h5 {
+    margin-bottom: 0.5em 0.813em;
+}
+
+.sweet-brown {
+    text-align: center;
+}
+
+#eventosAnteriores h2 {
+    margin-bottom: 1em;
+    margin-top: 2em;
+}
+
+.evento h3 {
+    margin-top: 0.9em;
+    font-size: 2rem;
+}
+
+footer {
+    margin-top: 4.25em;
+}
+
+#contacto {
+    background-color: #000F08;
+}
+
+#contacto i {
+    color: #FFFFFF;
+    margin: 0 0.25rem;   
+}
+
+footer {
+    padding: 3.25rem;
+}
+
+#contacto p {
+    color: #FFFFFF;
+    margin-top: 1rem;
+}
+
+section img {
+    border-radius: 5px;
+}
+
+.evento a {
+    text-decoration: none;
+}
+
+
+.vegan-hero img {
+    width: 100%;
+}
+
+.vegan-title {
+    text-align: left;
+    margin-bottom: 0.80em;
+}
+
+#p1, #p2 {
+    text-align: justify;
+}
+
+#p1 p, #p2 p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#vegan-content {
+    padding: 5% 24%;
+}
+
+.vegan-title {
+    font-size: 2.1rem;
+    font-weight: 700;
+}
+
+#p2 div h3 {
+    font-size: 2.1rem;
+    font-weight: 700;
+}
